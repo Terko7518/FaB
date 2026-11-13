@@ -1,0 +1,5 @@
+{
+  "_ARCHIVADO": "Este archivo está REEMPLAZADO y ya no lo usa el código. La fuente de verdad de legalidad es policy/canonical_legality.json (lista canónica con texto literal, URL, sección, fecha y estado pending_human_review), generada por tools/build_canonical.py desde policy/evidence/. La transcripción anterior se conserva en el zip como policy/archivo/official_policy_SUPERSEDED.json. Ver datos/RESUMEN-fase2.md.",
+  "superseded_on": "2026-11-08",
+  "replaced_by": "policy/canonical_legality.json"
+}
